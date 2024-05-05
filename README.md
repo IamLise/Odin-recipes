@@ -1,0 +1,2 @@
+I hope that I will have a better understaanding of how web sites work. I will hopefully be able to do simple web sites all by myself.
+During this project I will practis writing code, put a picture on a web site and link to other web sites.
